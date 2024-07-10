@@ -23,10 +23,10 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 <br>
 
 <div align="left">
-  <img src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png" height="45" alt="docker logo"  />
+  <img src="![pngwing com](https://github.com/Libryt/Libryt/assets/162467015/97fb4938-b84e-44c8-b75b-6fe15cede0ef)" height="45" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
-  <img src="![image](https://github.com/Libryt/Libryt/assets/162467015/aee82c33-273a-4833-abe4-d222779f007e)
+  <img src="![629b71eb7c5cd817694c3227](https://github.com/Libryt/Libryt/assets/162467015/671f1c25-8284-42a3-a10f-73bc30c1d062)
 " height="45" alt="docker logo"  />
 </div>
 
