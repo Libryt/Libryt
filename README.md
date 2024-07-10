@@ -16,9 +16,8 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 
 ### 🌐 Contato:
 <div align="left">
-    
-<img src="https://media.discordapp.net/attachments/828525818429964338/1260720375256322160/115757.png?ex=669058d8&is=668f0758&hm=52d921bc1f3c9ba8791eb1ff114052b0c953a20696d528de83f5fa407a447246&=&format=webp&quality=lossless" height="15" alt="postgresql logo" /> <a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
-</div>
+<img src="https://media.discordapp.net/attachments/828525818429964338/1260720375256322160/115757.png?ex=669058d8&is=668f0758&hm=52d921bc1f3c9ba8791eb1ff114052b0c953a20696d528de83f5fa407a447246&=&format=webp&quality=lossless" height="15" alt="postgresql logo" />
+</div> <a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-076929274/)
 
@@ -32,7 +31,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
 </div>
 
-<h3>GitHub Stats</h3>
+<h3>GitHub Stats:</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Libryt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=829A55&text_color=FFF&border_radius=8&border_color=829A55&icon_color=829A55&theme=jolly)
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Libryt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=829A55&hide=html,css&bg_color=000&text_color=FFF&border_radius=8&border_color=829A55&count_private=true)](https://github.com/Libryt/github-readme-stats)
