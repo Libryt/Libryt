@@ -15,9 +15,10 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 - Inglês Nivel C1.
 
 ### 🌐 Contato:
-
-<p>Clique no link abaixo para enviar um email:</p>
-    <a href="mailto:danielcunha12.contato@gmail.com">Enviar email</a>
+<div align="left">
+    
+<img src="https://media.discordapp.net/attachments/828525818429964338/1260720375256322160/115757.png?ex=669058d8&is=668f0758&hm=52d921bc1f3c9ba8791eb1ff114052b0c953a20696d528de83f5fa407a447246&=&format=webp&quality=lossless" height="15" alt="postgresql logo" /> <a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-076929274/)
 
