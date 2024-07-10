@@ -23,10 +23,10 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 <br>
 
 <div align="left">
-  <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143142563981/629b71eb7c5cd817694c3227.png?ex=669055d5&is=668f0455&hm=6c0091bbd02da8e00f00abb732be1bfe622824bc7745faf41f6565b53586bbb7&=&format=webp&quality=lossless&width=627&height=627" height="45" alt="docker logo"  />
+   <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143482175499/pngwing.com.png?ex=669055d5&is=668f0455&hm=713da6bf20115ca912851bb4b99f1a67d3790e7b57123a8e75eb6847ceec569b&=&format=webp&quality=lossless&width=583&height=627" height="45" alt="docker logo"/>
+  <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143142563981/629b71eb7c5cd817694c3227.png?ex=669055d5&is=668f0455&hm=6c0091bbd02da8e00f00abb732be1bfe622824bc7745faf41f6565b53586bbb7&=&format=webp&quality=lossless&width=627&height=627" height="45" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
-  <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143482175499/pngwing.com.png?ex=669055d5&is=668f0455&hm=713da6bf20115ca912851bb4b99f1a67d3790e7b57123a8e75eb6847ceec569b&=&format=webp&quality=lossless&width=583&height=627" height="45" alt="docker logo"  />
 </div>
 
 <h3>GitHub Stats</h3>
