@@ -23,7 +23,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 <br>
 
 <div align="left">
-  <img src="![pngwing com](https://github.com/Libryt/Libryt/assets/162467015/97fb4938-b84e-44c8-b75b-6fe15cede0ef)" height="45" alt="docker logo"  />
+  <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143142563981/629b71eb7c5cd817694c3227.png?ex=669055d5&is=668f0455&hm=6c0091bbd02da8e00f00abb732be1bfe622824bc7745faf41f6565b53586bbb7&=&format=webp&quality=lossless&width=627&height=627" height="45" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
   <img src="![629b71eb7c5cd817694c3227](https://github.com/Libryt/Libryt/assets/162467015/671f1c25-8284-42a3-a10f-73bc30c1d062)
