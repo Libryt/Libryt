@@ -14,11 +14,6 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 - Experiência em manutenção e otimização de computadores.
 - Inglês Nivel C1.
 
-### 🌐 Contato:
-📧<a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-076929274/)
-
 ### 💻 Tech Stack:
 <br>
 
@@ -28,6 +23,11 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
 </div>
+
+### 🌐 Contato:
+📧  <a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-076929274/)
 
 <h3>GitHub Stats</h3>
 
