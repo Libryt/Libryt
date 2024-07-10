@@ -12,7 +12,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 
 - Atualmente possuo proficiência em .Net 8.
 - Experiência em manutenção e otimização de computadores.
-- Inglês Nivel C1.
+- Inglês Nível C1.
 
 ### 💻 Tech Stack:
 <br>
