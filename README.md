@@ -18,10 +18,10 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 <br>
 
 <div align="left">
-   <img src="https://imgur.com/uy8692H" height="45" alt="docker logo"/>
+   <img src="https://media.discordapp.net/attachments/662330877753163787/1265661137483993121/file.png?ex=66a2524a&is=66a100ca&hm=c98b997ede52a36886d76976e24462d573e3e45f8921aa457a964c3993bcce9a&=&format=webp&quality=lossless" height="45" alt="dotnet"/>
   <img src="https://media.discordapp.net/attachments/828525818429964338/1260717143142563981/629b71eb7c5cd817694c3227.png?ex=669055d5&is=668f0455&hm=6c0091bbd02da8e00f00abb732be1bfe622824bc7745faf41f6565b53586bbb7&=&format=webp&quality=lossless&width=627&height=627" height="45" alt="docker logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="AAA"  />
 </div>
 
 ### 🌐 Contato:
