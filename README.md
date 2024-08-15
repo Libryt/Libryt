@@ -1,5 +1,5 @@
 # Apresentação 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=829A55&random=false&width=435&height=40&lines=Prazer,+sou+Daniel!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=829A55&random=false&width=435&height=40&lines=Prazer,+me+chamo+Daniel!)](https://git.io/typing-svg)
 
 
 
