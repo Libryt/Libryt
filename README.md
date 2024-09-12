@@ -29,7 +29,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 ### 🌐 Contato:
 📧  <a href="mailto:danielcunha12.contato@gmail.com">Enviar e-mail</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-076929274/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=829A55&color:FFF)](https://www.linkedin.com/in/daniel-cunha-1aa686323/)
 
 <h3>GitHub Stats</h3>
 
