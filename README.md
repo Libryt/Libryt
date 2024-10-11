@@ -48,7 +48,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 <br>
 
 <!-- Urls !-->
-[linkedin-url]: https://www.linkedin.com/in/https://www.linkedin.com/in/daniel-cunha-1aa686323//
+[linkedin-url]: https://www.linkedin.com/in/daniel-cunha-1aa686323/
 
 <!--- Shields -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white
