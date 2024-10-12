@@ -36,7 +36,6 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 
 ## 🌐 Contato:
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Libryt)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielcunha12.contato@gmail.com)
 
 
