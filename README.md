@@ -10,26 +10,28 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 
 ## Sobre mim:
 
-- Atualmente possuo proficiência em .Net 8.
+- Atualmente possuo proficiência em C#, Javascript, HTML, CSS, SQL/PSQL, Git, Github.
 - Experiência em manutenção e otimização de computadores.
-- Inglês Nível C1.
+- Inglês Nível C1-EFSET.
 
 ### 💻 Tech Stack:
 <br>
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="45" alt=".Net"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="45" alt="VisualStudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" alt="SQLServer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="45" alt="VisualStudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" alt="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="45" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="45" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="Vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="45" alt="PSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
   
 </div>
 
 ### 📚 O que ando estudando?
 
-#### 🖥️ **C# Essentials;**
-
+#### 🖥️ **Javascript, HTML, CSS**
 #### 🧩 **Data Structures.**
 
 
