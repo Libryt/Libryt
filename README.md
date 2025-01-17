@@ -41,8 +41,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielcunha12.contato@gmail.com)
 <br>
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Libryt&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Libryt&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
