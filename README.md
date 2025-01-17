@@ -39,12 +39,12 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 ## 🌐 Contato:
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:danielcunha12.contato@gmail.com)
-
-
-
-<h3>GitHub Stats</h3>
-![Libryt's Stats](https://github-readme-stats.vercel.app/api?username=Libryt&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 <br>
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Libryt&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!-- Urls !-->
 [linkedin-url]: https://www.linkedin.com/in/daniel-cunha-1aa686323/
