@@ -43,9 +43,7 @@ Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluç
 
 
 <h3>GitHub Stats</h3>
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Libryt&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=829A55&text_color=FFF&border_radius=8&border_color=829A55&icon_color=829A55&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Libryt&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=829A55&hide=html,css&bg_color=000&text_color=FFF&border_radius=8&border_color=829A55&count_private=true)](https://github.com/Libryt/github-readme-stats)
+![Libryt's Stats](https://github-readme-stats.vercel.app/api?username=Libryt&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 <br>
 
 <!-- Urls !-->
