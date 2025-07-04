@@ -5,7 +5,7 @@
 
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Tenho 18 anos e estou cursando Sistemas de Informação.
+Estou cursando Sistemas de Informação.
 Busco oportunidades as quais eu possa aplicar meu conhecimento para gerar soluções criativas e eficientes.
 
 ## Sobre mim:
